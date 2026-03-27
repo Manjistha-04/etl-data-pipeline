@@ -43,7 +43,7 @@ etl-data-pipeline/
 ├── .gitignore
  How to Run
 Clone the repository:
-git clone https://github.com/your-username/etl-data-pipeline.git
+git clone https://github.com/Manjistha-04/etl-data-pipeline.git
 cd etl-data-pipeline
 Install dependencies:
 pip install -r requirements.txt
